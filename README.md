@@ -37,7 +37,7 @@ This command starts the server and starts listening for connections. You will se
 Server is running, waiting for connections...
 ```
 
-**2. Run the Client**
+**2. Run the Client**  
 Open another terminal and run the following command:
  ```console
 python3 client.py
